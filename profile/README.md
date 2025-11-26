@@ -1,6 +1,6 @@
 # 🧬 MiMFa aseqbase
 
-**aseqbase** is a sequence-based web development framework designed by MiMFa to simplify the creation of modular, scalable, and accessible websites. Whether you're building a multi-subdomain platform or a single-page site, aseqbase provides the structure and tools to do it efficiently.
+**aseqbase** is a sequence-based web development framework designed by MiMFa to simplify the creation of modular, scalable, and accessible websites. Whether you're building hierarchical platforms, a multi-subdomain platform, or a single-page site, aseqbase provides the structure and tools to do it efficiently.
 
 ## 🌐 Project Overview
 
